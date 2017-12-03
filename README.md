@@ -4,7 +4,7 @@ This project contains a set of eight particle effects for use in Unity projects.
 
 
 ### Usage:
-Import the package[Particle-System-Unity/Package/Particle_System.unitypackage](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Package/Particle_System.unitypackage) to a Unity project (or) open the project under 
+Import the package [Particle-System-Unity/Package/Particle_System.unitypackage](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Package/Particle_System.unitypackage) from Unity (or) open the project under 
 [Particle-System-Unity/Source Project/](https://github.com/BharathVishal/Particle-System-Unity/tree/master/Source%20Project).
 
 1. The Resources_Holder_Singleton class contains the necessary methods to manipulate the particles.
