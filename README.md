@@ -34,13 +34,32 @@ Unity 2017.2. Also compatible with Unity 5.6.4 and 2017.1.
 
 
 ### Preview : 
+
+##### Effect 1 : 
 ![Effect 1](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Preview%20GIFs/0.gif)
+
+##### Effect 2 : 
 ![Effect 2](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Preview%20GIFs/1.gif)
+
+##### Effect 3 : 
 ![Effect 3](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Preview%20GIFs/2.gif)
+
+##### Effect 4 : 
 ![Effect 4](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Preview%20GIFs/3.gif)
+
+
+##### Effect 5 : 
 ![Effect 5](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Preview%20GIFs/4.gif)
+
+
+##### Effect 6 : 
 ![Effect 6](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Preview%20GIFs/5.gif)
+
+##### Effect 7 : 
 ![Effect 7](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Preview%20GIFs/6.gif)
+
+
+##### Effect 8 : 
 ![Effect 8](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Preview%20GIFs/7.gif)
 
 
