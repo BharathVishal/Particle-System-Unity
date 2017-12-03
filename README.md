@@ -2,6 +2,7 @@
 This project contains a set of eight particle effects for use in Unity projects.
 
 
+
 ### Usage:
 Import the package[Particle-System-Unity/Package/Particle_System.unitypackage](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Package/Particle_System.unitypackage) to a Unity project (or) open the project under 
 [Particle-System-Unity/Source Project/](https://github.com/BharathVishal/Particle-System-Unity/tree/master/Source%20Project).
@@ -14,17 +15,22 @@ Import the package[Particle-System-Unity/Package/Particle_System.unitypackage](h
 3. Modify the code to suit your needs.
 
 
+
 ### Year developed : 
 2017
 
+
+
 ### IDE/Game engine : 
 Unity 2017.2. Also compatible with Unity 5.6.4 and 2017.1.
+
 
 
 ### Features:
 * Mobile optimised
 * Eight different particle effects
 * Uses sharedMaterial(Prevents material memory leaks)
+
 
 
 ### Preview : 
@@ -36,6 +42,7 @@ Unity 2017.2. Also compatible with Unity 5.6.4 and 2017.1.
 ![Effect 6](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Preview%20GIFs/5.gif)
 ![Effect 7](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Preview%20GIFs/6.gif)
 ![Effect 8](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Preview%20GIFs/7.gif)
+
 
 
 © 2017. Developed by Bharath Vishal G (https://github.com/BharathVishal).
