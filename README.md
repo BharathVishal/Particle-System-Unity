@@ -22,7 +22,7 @@ Import the package [Particle-System-Unity/Package/Particle_System.unitypackage](
 
 
 ### IDE/Game engine : 
-Unity 2017.3. Also compatible with Unity 5.6.4, 2017.1 and 2017.2.
+Unity 2017.4.1f1. Also compatible with Unity 5.6.4, 2017.1, Unity 2017.2 and 2017.3.
 
 
 
@@ -64,5 +64,5 @@ Unity 2017.3. Also compatible with Unity 5.6.4, 2017.1 and 2017.2.
 
 
 
-© 2017. Developed by Bharath Vishal G (https://github.com/BharathVishal).
+© 2017-2018. Developed by Bharath Vishal G (https://github.com/BharathVishal).
 Thank you. :smile:
