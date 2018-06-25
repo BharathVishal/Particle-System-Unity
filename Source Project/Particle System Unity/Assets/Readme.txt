@@ -1,4 +1,4 @@
-Readme-Particle System Unity
+﻿Readme-Particle System Unity
 ----------------------------
 
 This project contains a set of eight particle effects for use in Unity projects.
@@ -22,7 +22,7 @@ Features:
 * Uses sharedMaterial(Prevents material memory leaks)
 
 
-© 2017. Developed by Bharath Vishal G (https://github.com/BharathVishal).
+© 2017-2018. Developed by Bharath Vishal G (https://github.com/BharathVishal).
 
 
 
