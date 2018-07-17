@@ -22,12 +22,12 @@ Import the package [Particle-System-Unity/Package/Particle_System.unitypackage](
 
 
 ### IDE/Game engine : 
-Unity 2018.2f1. 
+Unity 2018.2f1 
 
 
 
 ### Features:
-* Mobile optimised
+* Optimized for mobiles
 * Eight different particle effects
 * Uses sharedMaterial(Prevents material memory leaks)
 
