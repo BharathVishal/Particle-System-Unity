@@ -22,7 +22,7 @@ Features:
 * Uses sharedMaterial(Prevents material memory leaks)
 
 
-© 2017-2018. Developed by Bharath Vishal G (https://github.com/BharathVishal).
+© 2017-2020. Developed by Bharath Vishal G (https://github.com/BharathVishal).
 
 
 
