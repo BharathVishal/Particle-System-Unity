@@ -22,7 +22,8 @@ Import the package [Particle-System-Unity/Package/Particle_System.unitypackage](
 
 
 ### IDE/Game engine : 
-Unity 2020.1.16f1 
+Unity 2020.2.5f1 
+
 
 
 ### Features:
@@ -63,5 +64,5 @@ Unity 2020.1.16f1
 
 
 
-© 2017-2020. Developed by Bharath Vishal G (https://github.com/BharathVishal).
+© 2017-2021. Developed by Bharath Vishal G (https://github.com/BharathVishal).
 Thank you. :smile:
