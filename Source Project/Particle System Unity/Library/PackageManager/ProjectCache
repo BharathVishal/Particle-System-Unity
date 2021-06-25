@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637548563044463910
-    m_Hash: 1939469644
+      ticks: 637601876895164170
+    m_Hash: 3774002599
   m_LockFileStatus:
     m_FilePath: C:/Users/Vishal/Documents/Github projects/Particle System Unity/Source
       Project/Particle System Unity/Packages/packages-lock.json
@@ -15,15 +15,15 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637548563187295935
-    m_Hash: 1930301654
+      ticks: 637601877045952192
+    m_Hash: 194398386
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/Vishal/Documents/Github projects/Particle System Unity/Source
   Project/Particle System Unity/Packages
-m_EditorVersion: 2021.1.4f1 (4cd64a618c1b)
+m_EditorVersion: 2021.1.12f1 (afcadd793de6)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
@@ -78,7 +78,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.2d.tilemap@1.0.0
   testable: 0
@@ -132,15 +132,127 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
-- packageId: com.unity.ads@3.6.1
+- packageId: com.unity.adaptiveperformance@2.1.1
   testable: 0
   isDirectDependency: 1
-  version: 3.6.1
+  version: 2.1.1
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.ads@3.6.1
+    Project\Particle System Unity\Library\PackageCache\com.unity.adaptiveperformance@2.1.1
+  assetPath: Packages/com.unity.adaptiveperformance
+  name: com.unity.adaptiveperformance
+  displayName: Adaptive Performance
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'The Adaptive Performance package provides an API to get feedback
+    about the thermal and power state of mobile devices, enabling applications to
+    make performance-relevant adaptions at runtime.
+
+
+    For instruction on how
+    to use samples, please read the documentation.
+
+
+    By installing this package,
+    you agree to the terms and conditions of the Unity End User License Agreement
+    found under "View licenses" above.'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.2.0-preview.1
+    - 1.0.0
+    - 1.0.1
+    - 1.1.0-preview.2
+    - 1.1.0-preview.3
+    - 1.1.0-preview.4
+    - 1.1.0-preview.5
+    - 1.1.0-preview.7
+    - 1.1.0
+    - 1.1.6
+    - 1.1.9
+    - 1.1.10
+    - 1.2.0
+    - 1.2.2
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0-preview.4
+    - 2.0.0-preview.7
+    - 2.0.0-preview.8
+    - 2.0.0-preview.9
+    - 2.0.0-preview.10
+    - 2.0.0-preview.11
+    - 2.0.0
+    - 2.0.1
+    - 2.0.2
+    - 2.1.0
+    - 2.1.1
+    - 3.0.0-pre.2
+    compatible:
+    - 2.1.1
+    verified: 2.1.1
+  dependencies:
+  - name: com.unity.subsystemregistration
+    version: 1.1.0
+  resolvedDependencies:
+  - name: com.unity.subsystemregistration
+    version: 1.1.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - mobile
+  - adaptive
+  - performance
+  - utility
+  - utilities
+  - core
+  - samsung
+  - ap
+  - provider
+  - subsystem
+  - indexer
+  - scaler
+  - vrr
+  - indexer
+  - scaler
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637509023070000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.adaptiveperformance.git
+    revision: 6a340dcc6a6b123e45b16e5b753d75bc8f2331f5
+    path: 
+  unityLifecycle:
+    version: 2.1.1
+    nextVersion: 
+- packageId: com.unity.ads@3.7.1
+  testable: 0
+  isDirectDependency: 1
+  version: 3.7.1
+  source: 1
+  resolvedPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
+    Project\Particle System Unity\Library\PackageCache\com.unity.ads@3.7.1
   assetPath: Packages/com.unity.ads
   name: com.unity.ads
   displayName: Advertisement
@@ -195,12 +307,11 @@ m_ResolvedPackages:
     - 3.6.1
     - 3.7.0
     - 3.7.1
+    - 3.7.3
     compatible:
-    - 3.5.2
-    - 3.6.1
-    - 3.7.0
     - 3.7.1
-    verified: 3.5.2
+    - 3.7.3
+    verified: 3.7.3
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -226,16 +337,16 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637433982320000000
+  datePublishedTicks: 637533483430000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ads.git
-    revision: aa1c5a9556a9bb62eef662153cfaa1075805106f
+    revision: 95ec369d16df431f8c9ebbb83c0f65dc4471f07e
     path: 
   unityLifecycle:
-    version: 
+    version: 3.7.1
     nextVersion: 
 - packageId: com.unity.analytics@3.5.3
   testable: 0
@@ -330,27 +441,28 @@ m_ResolvedPackages:
     revision: 02d361e53eda59ceb7d02ba9bd15ff55a093ad83
     path: 
   unityLifecycle:
-    version: 
+    version: 3.5.3
     nextVersion: 
-- packageId: com.unity.collab-proxy@1.3.9
+- packageId: com.unity.collab-proxy@1.5.7
   testable: 0
   isDirectDependency: 1
-  version: 1.3.9
+  version: 1.5.7
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.collab-proxy@1.3.9
+    Project\Particle System Unity\Library\PackageCache\com.unity.collab-proxy@1.5.7
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
-  displayName: Unity Collaborate
+  displayName: Version Control
   author:
     name: 
     email: 
     url: 
   category: Editor
   type: 
-  description: Collaborate with your teammates with the official version control
-    system for Unity. Collaborate is a simple way for teams to save, share, and sync
-    your Unity project.
+  description: The Version Control package gives you the ability to use either Collaborate
+    or Plastic SCM for Unity (beta) in the Unity editor. To use Plastic SCM for Unity
+    (beta), a Plastic SCM subscription is required. Learn more about how you can
+    get started for free by visiting plasticscm.com.
   status: 4
   errors: []
   versions:
@@ -372,6 +484,8 @@ m_ResolvedPackages:
     - 1.3.7
     - 1.3.8
     - 1.3.9
+    - 1.4.9
+    - 1.5.7
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -383,7 +497,7 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     compatible:
-    - 1.3.9
+    - 1.5.7
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -394,9 +508,13 @@ m_ResolvedPackages:
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
-    verified: 1.3.9
-  dependencies: []
-  resolvedDependencies: []
+    verified: 1.5.7
+  dependencies:
+  - name: com.unity.nuget.newtonsoft-json
+    version: 2.0.0
+  resolvedDependencies:
+  - name: com.unity.nuget.newtonsoft-json
+    version: 2.0.0
   keywords:
   - vsc
   - version
@@ -420,16 +538,16 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637314349270000000
+  datePublishedTicks: 637551413290000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: fa825106f349f996acff22f718845eab46ca2d7c
+    revision: f079d307344f568804d3ea6d781013135e614e45
     path: 
   unityLifecycle:
-    version: 
+    version: 1.5.7
     nextVersion: 
 - packageId: com.unity.ext.nunit@1.0.6
   testable: 0
@@ -489,15 +607,15 @@ m_ResolvedPackages:
     revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.6
     nextVersion: 
-- packageId: com.unity.ide.rider@3.0.5
+- packageId: com.unity.ide.rider@3.0.7
   testable: 0
   isDirectDependency: 1
-  version: 3.0.5
+  version: 3.0.7
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.ide.rider@3.0.5
+    Project\Particle System Unity\Library\PackageCache\com.unity.ide.rider@3.0.7
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -538,12 +656,16 @@ m_ResolvedPackages:
     - 3.0.4
     - 3.0.5
     - 3.0.6
+    - 3.0.7
     compatible:
-    - 3.0.5
-    - 3.0.6
-    verified: 3.0.6
-  dependencies: []
-  resolvedDependencies: []
+    - 3.0.7
+    verified: 3.0.7
+  dependencies:
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  resolvedDependencies:
+  - name: com.unity.ext.nunit
+    version: 1.0.6
   keywords: []
   registry:
     id: main
@@ -557,24 +679,24 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637502896060000000
+  datePublishedTicks: 637572251600000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: c84d2b08574326cd1e40dcae5378c556c6aecad8
+    revision: 3007c42a679bbe2c082c276e8d79279110964553
     path: 
   unityLifecycle:
-    version: 
+    version: 3.0.7
     nextVersion: 
-- packageId: com.unity.ide.visualstudio@2.0.7
+- packageId: com.unity.ide.visualstudio@2.0.9
   testable: 0
   isDirectDependency: 1
-  version: 2.0.7
+  version: 2.0.9
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
+    Project\Particle System Unity\Library\PackageCache\com.unity.ide.visualstudio@2.0.9
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -603,9 +725,11 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.5
     - 2.0.7
+    - 2.0.8
+    - 2.0.9
     compatible:
-    - 2.0.7
-    verified: 2.0.7
+    - 2.0.9
+    verified: 2.0.9
   dependencies:
   - name: com.unity.test-framework
     version: 1.1.9
@@ -631,16 +755,16 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637486638490000000
+  datePublishedTicks: 637580705480000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: dec282022c7a95fada560c36f53da9dd155a142c
+    revision: c7cd4c6319806423b3d918b3e9599244e3993d41
     path: 
   unityLifecycle:
-    version: 
+    version: 2.0.9
     nextVersion: 
 - packageId: com.unity.ide.vscode@1.2.3
   testable: 0
@@ -703,7 +827,7 @@ m_ResolvedPackages:
     revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
     path: 
   unityLifecycle:
-    version: 
+    version: 1.2.3
     nextVersion: 
 - packageId: com.unity.multiplayer-hlapi@1.0.6
   testable: 0
@@ -734,6 +858,7 @@ m_ResolvedPackages:
     - 1.0.4
     - 1.0.6
     - 1.0.8
+    - 1.1.1
     compatible:
     - 0.2.4-preview
     - 0.2.5-preview
@@ -743,6 +868,7 @@ m_ResolvedPackages:
     - 1.0.4
     - 1.0.6
     - 1.0.8
+    - 1.1.1
     verified: 
   dependencies:
   - name: nuget.mono-cecil
@@ -779,13 +905,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.unity.purchasing@3.0.2
+- packageId: com.unity.purchasing@3.2.1
   testable: 0
   isDirectDependency: 1
-  version: 3.0.2
+  version: 3.2.1
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.purchasing@3.0.2
+    Project\Particle System Unity\Library\PackageCache\com.unity.purchasing@3.2.1
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -809,10 +935,12 @@ m_ResolvedPackages:
     coupling with Unity Analytics to enable monitoring and decision-making based
     on trends in your revenue and purchase data across multiple platforms\n \u25AA
     Support for iOS, Mac, tvOS, Google Play, Windows, Amazon, and Samsung Galaxy
-    app stores\n \u25AA Support to work with the Unity Distribution Portal to synchronize
-    catalogs and transactions with other app stores\n \u25AA Client-side receipt
-    validation for Apple App Store and Google Play\n\nAfter installing this package,
-    open the Services Window to enable In-App Purchasing to use these features."
+    app stores(*). (*) NOTE Samsung Galaxy is obsolete and will be removed in v4.
+    Please use Unity Distribution Platform for Samsung Galaxy Apps support.\n \u25AA
+    Support to work with the Unity Distribution Portal to synchronize catalogs and
+    transactions with other app stores\n \u25AA Client-side receipt validation for
+    Apple App Store and Google Play\n\nAfter installing this package, open the Services
+    Window to enable In-App Purchasing to use these features."
   status: 4
   errors: []
   versions:
@@ -851,10 +979,12 @@ m_ResolvedPackages:
     - 3.0.1
     - 3.0.2
     - 3.1.0
+    - 3.2.1
+    - 3.2.2
     compatible:
-    - 3.0.2
-    - 3.1.0
-    verified: 3.0.2
+    - 3.2.1
+    - 3.2.2
+    verified: 3.2.2
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -897,16 +1027,16 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637528882460000000
+  datePublishedTicks: 637570466070000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.git
-    revision: ec841c2f6c39ccd5c0138306f24db7ad69ece916
+    revision: 6e71b2659d2f21928de1f34d82964edeab391788
     path: 
   unityLifecycle:
-    version: 
+    version: 3.2.1
     nextVersion: 
 - packageId: com.unity.test-framework@1.1.24
   testable: 0
@@ -957,9 +1087,11 @@ m_ResolvedPackages:
     - 1.1.20
     - 1.1.22
     - 1.1.24
+    - 1.1.26
     compatible:
     - 1.1.24
-    verified: 1.1.24
+    - 1.1.26
+    verified: 1.1.26
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -998,15 +1130,15 @@ m_ResolvedPackages:
     revision: e6fe8892689398c0d9aba4587e0ba69edc3d82b8
     path: 
   unityLifecycle:
-    version: 
+    version: 1.1.24
     nextVersion: 
-- packageId: com.unity.textmeshpro@3.0.4
+- packageId: com.unity.textmeshpro@3.0.6
   testable: 0
   isDirectDependency: 1
-  version: 3.0.4
+  version: 3.0.6
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.textmeshpro@3.0.4
+    Project\Particle System Unity\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1117,8 +1249,6 @@ m_ResolvedPackages:
     - 3.0.5
     - 3.0.6
     compatible:
-    - 3.0.4
-    - 3.0.5
     - 3.0.6
     verified: 3.0.6
   dependencies:
@@ -1149,24 +1279,24 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637492944820000000
+  datePublishedTicks: 637547111200000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
-    revision: e2f8dffb26de9a130d5b2140d83891d9a7825330
+    revision: 01e57e3b7de18af9dfe9baaa0a0ff5cc4765c899
     path: 
   unityLifecycle:
-    version: 
+    version: 3.0.6
     nextVersion: 
-- packageId: com.unity.timeline@1.5.4
+- packageId: com.unity.timeline@1.5.5
   testable: 0
   isDirectDependency: 1
-  version: 1.5.4
+  version: 1.5.5
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.timeline@1.5.4
+    Project\Particle System Unity\Library\PackageCache\com.unity.timeline@1.5.5
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1227,6 +1357,7 @@ m_ResolvedPackages:
     - 1.4.5
     - 1.4.6
     - 1.4.7
+    - 1.4.8
     - 1.5.0-pre.2
     - 1.5.0-preview.1
     - 1.5.0-preview.2
@@ -1238,13 +1369,18 @@ m_ResolvedPackages:
     - 1.5.1-pre.3
     - 1.5.2
     - 1.5.4
+    - 1.5.5
     - 1.6.0-pre.1
     - 1.6.0-pre.3
+    - 1.6.0-pre.4
+    - 1.6.0-pre.5
     compatible:
-    - 1.5.4
+    - 1.5.5
     - 1.6.0-pre.1
     - 1.6.0-pre.3
-    verified: 1.5.4
+    - 1.6.0-pre.4
+    - 1.6.0-pre.5
+    verified: 1.5.5
   dependencies:
   - name: com.unity.modules.director
     version: 1.0.0
@@ -1281,16 +1417,16 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637510732040000000
+  datePublishedTicks: 637557616440000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-    revision: 7fe777cafcad93e7e44db6bd6a18ed5bd55e781a
+    revision: 4bb067f24973c7cfa1e4a453615e43083ce6855d
     path: 
   unityLifecycle:
-    version: 
+    version: 1.5.5
     nextVersion: 
 - packageId: com.unity.ugui@1.0.0
   testable: 0
@@ -1356,7 +1492,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.xr.legacyinputhelpers@2.1.7
   testable: 0
@@ -1452,7 +1588,7 @@ m_ResolvedPackages:
     revision: b2024928b8140a10ad43aeb5824d2f08bb8796bc
     path: 
   unityLifecycle:
-    version: 
+    version: 2.1.7
     nextVersion: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
@@ -1504,7 +1640,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.androidjni@1.0.0
   testable: 0
@@ -1555,7 +1691,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.animation@1.0.0
   testable: 0
@@ -1607,7 +1743,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.assetbundle@1.0.0
   testable: 0
@@ -1659,7 +1795,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.audio@1.0.0
   testable: 0
@@ -1711,7 +1847,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.cloth@1.0.0
   testable: 0
@@ -1767,7 +1903,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.director@1.0.0
   testable: 0
@@ -1827,7 +1963,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.imageconversion@1.0.0
   testable: 0
@@ -1880,7 +2016,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.imgui@1.0.0
   testable: 0
@@ -1932,7 +2068,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.jsonserialize@1.0.0
   testable: 0
@@ -1984,7 +2120,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.particlesystem@1.0.0
   testable: 0
@@ -2036,7 +2172,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.physics@1.0.0
   testable: 0
@@ -2088,7 +2224,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.physics2d@1.0.0
   testable: 0
@@ -2140,7 +2276,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.screencapture@1.0.0
   testable: 0
@@ -2196,7 +2332,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.terrain@1.0.0
   testable: 0
@@ -2248,7 +2384,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.terrainphysics@1.0.0
   testable: 0
@@ -2308,7 +2444,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.tilemap@1.0.0
   testable: 0
@@ -2363,7 +2499,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.ui@1.0.0
   testable: 0
@@ -2415,7 +2551,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.uielements@1.0.0
   testable: 0
@@ -2483,7 +2619,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.umbra@1.0.0
   testable: 0
@@ -2535,7 +2671,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.unityanalytics@1.0.0
   testable: 0
@@ -2595,7 +2731,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.unitywebrequest@1.0.0
   testable: 0
@@ -2647,7 +2783,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.unitywebrequestassetbundle@1.0.0
   testable: 0
@@ -2707,7 +2843,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.unitywebrequestaudio@1.0.0
   testable: 0
@@ -2767,7 +2903,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.unitywebrequesttexture@1.0.0
   testable: 0
@@ -2827,7 +2963,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.unitywebrequestwww@1.0.0
   testable: 0
@@ -2903,7 +3039,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.vehicles@1.0.0
   testable: 0
@@ -2959,7 +3095,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.video@1.0.0
   testable: 0
@@ -3023,7 +3159,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.vr@1.0.0
   testable: 0
@@ -3089,7 +3225,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.wind@1.0.0
   testable: 0
@@ -3141,7 +3277,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.xr@1.0.0
   testable: 0
@@ -3205,7 +3341,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.modules.subsystems@1.0.0
   testable: 0
@@ -3379,4 +3515,129 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 
+    nextVersion: 
+- packageId: com.unity.nuget.newtonsoft-json@2.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 2.0.0
+  source: 1
+  resolvedPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
+    Project\Particle System Unity\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+  assetPath: Packages/com.unity.nuget.newtonsoft-json
+  name: com.unity.nuget.newtonsoft-json
+  displayName: Newtonsoft Json
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
+    synced to version 12.0.2.
+
+
+    This package is used for advanced json serialization
+    and deserialization. Most Unity users will be better suited using the existing
+    json tools built into Unity.
+
+    To avoid assembly clashes, please use this
+    package if you intend to use Newtonsoft Json.'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 2.0.0
+    compatible:
+    - 2.0.0
+    verified: 2.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+    revision: d2fd6ed876261bbd82f59199ad711e7667bf633a
+    path: 
+  unityLifecycle:
+    version: 2.0.0
+    nextVersion: 
+- packageId: com.unity.subsystemregistration@1.1.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.1.0
+  source: 1
+  resolvedPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
+    Project\Particle System Unity\Library\PackageCache\com.unity.subsystemregistration@1.1.0
+  assetPath: Packages/com.unity.subsystemregistration
+  name: com.unity.subsystemregistration
+  displayName: Subsystem Registration
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Provides internal registration mechanism for standalone subsystems. 
+    It allows a standalone subsystem to inform the Subsystem Manager of its existence.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.4
+    - 1.0.4
+    - 1.0.5
+    - 1.0.6
+    - 1.1.0
+    compatible:
+    - 1.1.0
+    verified: 1.1.0
+  dependencies:
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - subsystem
+  - registration
+  - internal
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637314426150000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.subsystemregistration.git
+    revision: 72584ba5248fbe79e560e795ad819f876954fceb
+    path: 
+  unityLifecycle:
+    version: 1.1.0
     nextVersion: 
