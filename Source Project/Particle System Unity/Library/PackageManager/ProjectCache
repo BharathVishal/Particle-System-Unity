@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637601876895164170
-    m_Hash: 3774002599
+      ticks: 637621906696623109
+    m_Hash: 2647255181
   m_LockFileStatus:
     m_FilePath: C:/Users/Vishal/Documents/Github projects/Particle System Unity/Source
       Project/Particle System Unity/Packages/packages-lock.json
@@ -15,15 +15,15 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637601877045952192
-    m_Hash: 194398386
+      ticks: 637621906971070292
+    m_Hash: 1058629231
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/Vishal/Documents/Github projects/Particle System Unity/Source
   Project/Particle System Unity/Packages
-m_EditorVersion: 2021.1.12f1 (afcadd793de6)
+m_EditorVersion: 2021.1.15f1 (e767a7370072)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
@@ -134,13 +134,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: com.unity.adaptiveperformance@2.1.1
+- packageId: com.unity.adaptiveperformance@2.2.1
   testable: 0
   isDirectDependency: 1
-  version: 2.1.1
+  version: 2.2.1
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.adaptiveperformance@2.1.1
+    Project\Particle System Unity\Library\PackageCache\com.unity.adaptiveperformance@2.2.1
   assetPath: Packages/com.unity.adaptiveperformance
   name: com.unity.adaptiveperformance
   displayName: Adaptive Performance
@@ -193,10 +193,11 @@ m_ResolvedPackages:
     - 2.0.2
     - 2.1.0
     - 2.1.1
+    - 2.2.1
     - 3.0.0-pre.2
     compatible:
-    - 2.1.1
-    verified: 2.1.1
+    - 2.2.1
+    verified: 2.2.1
   dependencies:
   - name: com.unity.subsystemregistration
     version: 1.1.0
@@ -221,8 +222,10 @@ m_ResolvedPackages:
   - indexer
   - scaler
   - vrr
-  - indexer
-  - scaler
+  - boost
+  - profiles
+  - cluster
+  - clusterinfo
   registry:
     id: main
     name: 
@@ -235,16 +238,16 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637509023070000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.adaptiveperformance.git
-    revision: 6a340dcc6a6b123e45b16e5b753d75bc8f2331f5
+    revision: 55e99eb87dccfc8271118fb74aaa9f7eafb316b9
     path: 
   unityLifecycle:
-    version: 2.1.1
+    version: 2.2.1
     nextVersion: 
 - packageId: com.unity.ads@3.7.1
   testable: 0
@@ -486,6 +489,8 @@ m_ResolvedPackages:
     - 1.3.9
     - 1.4.9
     - 1.5.7
+    - 1.6.0
+    - 1.7.1
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -498,6 +503,8 @@ m_ResolvedPackages:
     - 2.1.0-preview.6
     compatible:
     - 1.5.7
+    - 1.6.0
+    - 1.7.1
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -727,15 +734,17 @@ m_ResolvedPackages:
     - 2.0.7
     - 2.0.8
     - 2.0.9
+    - 2.0.11
     compatible:
     - 2.0.9
-    verified: 2.0.9
+    - 2.0.11
+    verified: 2.0.11
   dependencies:
   - name: com.unity.test-framework
     version: 1.1.9
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.24
+    version: 1.1.27
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
@@ -905,13 +914,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.unity.purchasing@3.2.1
+- packageId: com.unity.purchasing@3.2.2
   testable: 0
   isDirectDependency: 1
-  version: 3.2.1
+  version: 3.2.2
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.purchasing@3.2.1
+    Project\Particle System Unity\Library\PackageCache\com.unity.purchasing@3.2.2
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -981,10 +990,11 @@ m_ResolvedPackages:
     - 3.1.0
     - 3.2.1
     - 3.2.2
+    - 3.2.3
     compatible:
-    - 3.2.1
     - 3.2.2
-    verified: 3.2.2
+    - 3.2.3
+    verified: 3.2.3
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -1027,24 +1037,24 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637570466070000000
+  datePublishedTicks: 637584231740000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.git
-    revision: 6e71b2659d2f21928de1f34d82964edeab391788
+    revision: 6ad60ad670b28d3a131388481318ce0d0ca2bc0d
     path: 
   unityLifecycle:
-    version: 3.2.1
+    version: 3.2.2
     nextVersion: 
-- packageId: com.unity.test-framework@1.1.24
+- packageId: com.unity.test-framework@1.1.27
   testable: 0
   isDirectDependency: 1
-  version: 1.1.24
+  version: 1.1.27
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.test-framework@1.1.24
+    Project\Particle System Unity\Library\PackageCache\com.unity.test-framework@1.1.27
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1088,10 +1098,10 @@ m_ResolvedPackages:
     - 1.1.22
     - 1.1.24
     - 1.1.26
+    - 1.1.27
     compatible:
-    - 1.1.24
-    - 1.1.26
-    verified: 1.1.26
+    - 1.1.27
+    verified: 1.1.27
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -1121,16 +1131,16 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637505702940000000
+  datePublishedTicks: 637594751620000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-    revision: e6fe8892689398c0d9aba4587e0ba69edc3d82b8
+    revision: c2f2cc9b7ea61d42964257363595dff5e8c47c42
     path: 
   unityLifecycle:
-    version: 1.1.24
+    version: 1.1.27
     nextVersion: 
 - packageId: com.unity.textmeshpro@3.0.6
   testable: 0
@@ -1370,17 +1380,21 @@ m_ResolvedPackages:
     - 1.5.2
     - 1.5.4
     - 1.5.5
+    - 1.5.6
     - 1.6.0-pre.1
     - 1.6.0-pre.3
     - 1.6.0-pre.4
     - 1.6.0-pre.5
+    - 1.6.1
     compatible:
     - 1.5.5
+    - 1.5.6
     - 1.6.0-pre.1
     - 1.6.0-pre.3
     - 1.6.0-pre.4
     - 1.6.0-pre.5
-    verified: 1.5.5
+    - 1.6.1
+    verified: 1.5.6
   dependencies:
   - name: com.unity.modules.director
     version: 1.0.0
