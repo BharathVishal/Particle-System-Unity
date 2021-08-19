@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 9}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -42,7 +42,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 498
-    height: 711
+    height: 533
   m_MinSize: {x: 102, y: 121}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 20}
@@ -68,13 +68,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 236
+    y: 414
     width: 1203
-    height: 711
+    height: 533
   m_MinSize: {x: 304, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 49
+  controlID: 149
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 47
+  controlID: 74
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
     x: 498
     y: 0
     width: 705
-    height: 711
+    height: 533
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 21}
@@ -197,7 +197,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 283
-    height: 236
+    height: 414
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
@@ -321,11 +321,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1203
-    height: 236
+    height: 414
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 17
+  controlID: 49
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -344,7 +344,7 @@ MonoBehaviour:
     x: 283
     y: 0
     width: 920
-    height: 236
+    height: 414
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 19}
@@ -417,14 +417,15 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Adaptive Performance/Settings
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Vishal\Documents\Github projects\Particle System Unity\Source
+  m_LastProjectPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
     Project\Particle System Unity
   m_LockTracker:
     m_IsLocked: 0
@@ -432,7 +433,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 00ca9a3b
     m_LastClickedID: 1000000000
-    m_ExpandedIDs: 00000000f04e0000f24e0000f44e0000f64e0000f84e0000fa4e0000fc4e0000fe4e0000004f0000024f0000044f0000064f0000084f00000a4f00000c4f0000
+    m_ExpandedIDs: 000000002c4d00002e4d0000304d0000324d0000344d0000364d0000384d00003a4d00003c4d00003e4d0000404d0000424d0000444d0000464d0000484d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -460,7 +461,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000f04e0000f24e0000f44e0000f64e0000f84e0000fa4e0000fc4e0000fe4e0000004f0000024f0000044f0000064f0000084f00000a4f00000c4f0000
+    m_ExpandedIDs: ffffffff000000002c4d00002e4d0000304d0000324d0000344d0000364d0000384d00003a4d00003c4d00003e4d0000404d0000424d0000444d0000464d0000484d0000804d0000a44d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -579,14 +580,14 @@ MonoBehaviour:
     x: 274
     y: 73
     width: 281
-    height: 215
+    height: 393
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: a8010000
       m_LastClickedID: 0
-      m_ExpandedIDs: 68f9ffff
+      m_ExpandedIDs: 30fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -634,7 +635,7 @@ MonoBehaviour:
     x: 557
     y: 73
     width: 918
-    height: 215
+    height: 393
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: cf3febab89bd7b84dbda9fffc6419958
@@ -649,7 +650,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -1.1209778, y: 0, z: 1.1209778}
     speed: 2
-    m_Value: {x: -1.1185172, y: 0, z: 1.1185172}
+    m_Value: {x: -1.1209778, y: 0, z: 1.1209778}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -749,9 +750,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 274
-    y: 309
+    y: 487
     width: 496
-    height: 690
+    height: 512
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &21
 MonoBehaviour:
@@ -775,9 +776,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 772
-    y: 309
+    y: 487
     width: 703
-    height: 690
+    height: 512
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames:
   - UnityEditor.DeviceSimulation.SimulatorWindow
@@ -825,22 +826,22 @@ MonoBehaviour:
       x: 0
       y: 21
       width: 703
-      height: 669
-    m_Scale: {x: 0.83625, y: 0.83625}
-    m_Translation: {x: 351.5, y: 334.5}
+      height: 491
+    m_Scale: {x: 0.61375, y: 0.61375}
+    m_Translation: {x: 351.50003, y: 245.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -420.32886
+      x: -572.7088
       y: -400
-      width: 840.6577
+      width: 1145.4176
       height: 800
     m_MinimalGUI: 1
-  m_defaultScale: 0.83625
-  m_LastWindowPixelSize: {x: 703, y: 690}
+  m_defaultScale: 0.61375
+  m_LastWindowPixelSize: {x: 703, y: 512}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000001000000000000
