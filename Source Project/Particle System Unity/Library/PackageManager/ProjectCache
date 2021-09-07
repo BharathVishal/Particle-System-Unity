@@ -1,36 +1,36 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/Vishal/Documents/Github Projects/Particle-System-Unity/Source
+    m_FilePath: C:/Users/Vishal/Documents/GitHub Projects/Particle-System-Unity/Source
       Project/Particle System Unity/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637649447738367464
-    m_Hash: 757096603
+      ticks: 637665860086951895
+    m_Hash: 3096119137
   m_LockFileStatus:
-    m_FilePath: C:/Users/Vishal/Documents/Github Projects/Particle-System-Unity/Source
+    m_FilePath: C:/Users/Vishal/Documents/GitHub Projects/Particle-System-Unity/Source
       Project/Particle System Unity/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637649447827935166
-    m_Hash: 826486961
+      ticks: 637665860380751907
+    m_Hash: 2574424248
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/Vishal/Documents/Github Projects/Particle-System-Unity/Source
+m_ProjectPath: C:/Users/Vishal/Documents/GitHub Projects/Particle-System-Unity/Source
   Project/Particle System Unity/Packages
-m_EditorVersion: 2021.1.17f1 (03b40fe07a36)
+m_EditorVersion: 2021.1.18f1 (25bdc3efbc2d)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.2d.sprite@1.0.0
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
@@ -85,7 +85,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.2d.tilemap@1.0.0
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
@@ -139,7 +139,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.2.1
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.adaptiveperformance@2.2.1
   assetPath: Packages/com.unity.adaptiveperformance
   name: com.unity.adaptiveperformance
@@ -166,35 +166,7 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.2.0-preview.1
-    - 1.0.0
-    - 1.0.1
-    - 1.1.0-preview.2
-    - 1.1.0-preview.3
-    - 1.1.0-preview.4
-    - 1.1.0-preview.5
-    - 1.1.0-preview.7
-    - 1.1.0
-    - 1.1.6
-    - 1.1.9
-    - 1.1.10
-    - 1.2.0
-    - 1.2.2
-    - 2.0.0-preview.1
-    - 2.0.0-preview.2
-    - 2.0.0-preview.4
-    - 2.0.0-preview.7
-    - 2.0.0-preview.8
-    - 2.0.0-preview.9
-    - 2.0.0-preview.10
-    - 2.0.0-preview.11
-    - 2.0.0
-    - 2.0.1
-    - 2.0.2
-    - 2.1.0
-    - 2.1.1
     - 2.2.1
-    - 3.0.0-pre.2
     compatible:
     - 2.2.1
     verified: 2.2.1
@@ -238,7 +210,7 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637596389030000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -249,13 +221,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 2.2.1
     nextVersion: 
-- packageId: com.unity.ads@3.7.1
+- packageId: com.unity.ads@3.7.5
   testable: 0
   isDirectDependency: 1
-  version: 3.7.1
+  version: 3.7.5
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.ads@3.7.1
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
+    Project\Particle System Unity\Library\PackageCache\com.unity.ads@3.7.5
   assetPath: Packages/com.unity.ads
   name: com.unity.ads
   displayName: Advertisement
@@ -313,8 +285,6 @@ m_ResolvedPackages:
     - 3.7.3
     - 3.7.5
     compatible:
-    - 3.7.1
-    - 3.7.3
     - 3.7.5
     verified: 3.7.5
   dependencies:
@@ -342,23 +312,23 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637533483430000000
+  datePublishedTicks: 637635162230000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ads.git
-    revision: 95ec369d16df431f8c9ebbb83c0f65dc4471f07e
+    revision: 0e92fa56fc4e4cd1fa305e76a911acdae6386b96
     path: 
   unityLifecycle:
-    version: 3.7.1
+    version: 3.7.5
     nextVersion: 
 - packageId: com.unity.analytics@3.5.3
   testable: 0
   isDirectDependency: 1
   version: 3.5.3
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.analytics@3.5.3
   assetPath: Packages/com.unity.analytics
   name: com.unity.analytics
@@ -455,7 +425,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.1
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.collab-proxy@1.7.1
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
@@ -570,7 +540,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.6
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
@@ -630,7 +600,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.7
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.ide.rider@3.0.7
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
@@ -706,13 +676,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.0.7
     nextVersion: 
-- packageId: com.unity.ide.visualstudio@2.0.9
+- packageId: com.unity.ide.visualstudio@2.0.11
   testable: 0
   isDirectDependency: 1
-  version: 2.0.9
+  version: 2.0.11
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.ide.visualstudio@2.0.9
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
+    Project\Particle System Unity\Library\PackageCache\com.unity.ide.visualstudio@2.0.11
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -745,7 +715,6 @@ m_ResolvedPackages:
     - 2.0.9
     - 2.0.11
     compatible:
-    - 2.0.9
     - 2.0.11
     verified: 2.0.11
   dependencies:
@@ -773,23 +742,23 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637580705480000000
+  datePublishedTicks: 637613656180000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: c7cd4c6319806423b3d918b3e9599244e3993d41
+    revision: 680e06d94ffca728223ae2cb14bb919cd354e2c1
     path: 
   unityLifecycle:
-    version: 2.0.9
+    version: 2.0.11
     nextVersion: 
 - packageId: com.unity.ide.vscode@1.2.3
   testable: 0
   isDirectDependency: 1
   version: 1.2.3
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.ide.vscode@1.2.3
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
@@ -818,9 +787,11 @@ m_ResolvedPackages:
     - 1.2.1
     - 1.2.2
     - 1.2.3
+    - 1.2.4
     compatible:
     - 1.2.3
-    verified: 1.2.3
+    - 1.2.4
+    verified: 1.2.4
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -852,7 +823,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.6
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.multiplayer-hlapi@1.0.6
   assetPath: Packages/com.unity.multiplayer-hlapi
   name: com.unity.multiplayer-hlapi
@@ -923,13 +894,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.unity.purchasing@3.2.2
+- packageId: com.unity.purchasing@3.2.3
   testable: 0
   isDirectDependency: 1
-  version: 3.2.2
+  version: 3.2.3
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.purchasing@3.2.2
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
+    Project\Particle System Unity\Library\PackageCache\com.unity.purchasing@3.2.3
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -1001,10 +972,11 @@ m_ResolvedPackages:
     - 3.2.2
     - 3.2.3
     - 4.0.0
+    - 4.0.3
     compatible:
-    - 3.2.2
     - 3.2.3
     - 4.0.0
+    - 4.0.3
     verified: 3.2.3
   dependencies:
   - name: com.unity.ugui
@@ -1048,23 +1020,23 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637584231740000000
+  datePublishedTicks: 637618660880000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.git
-    revision: 6ad60ad670b28d3a131388481318ce0d0ca2bc0d
+    revision: 118d0cf33fe3071fea1b29143e914f3ee0b1c8e0
     path: 
   unityLifecycle:
-    version: 3.2.2
+    version: 3.2.3
     nextVersion: 
 - packageId: com.unity.test-framework@1.1.27
   testable: 0
   isDirectDependency: 1
   version: 1.1.27
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.test-framework@1.1.27
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
@@ -1160,7 +1132,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
@@ -1322,7 +1294,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.5.6
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.timeline@1.5.6
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
@@ -1465,7 +1437,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
@@ -1531,7 +1503,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.8
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.8
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
@@ -1628,7 +1600,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
@@ -1680,7 +1652,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
@@ -1731,7 +1703,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
@@ -1783,7 +1755,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
@@ -1835,7 +1807,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
@@ -1887,7 +1859,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
@@ -1943,7 +1915,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
@@ -2003,7 +1975,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
@@ -2056,7 +2028,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
@@ -2108,7 +2080,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
@@ -2160,7 +2132,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
@@ -2212,7 +2184,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
@@ -2264,7 +2236,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
@@ -2316,7 +2288,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
@@ -2372,7 +2344,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
@@ -2424,7 +2396,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
@@ -2484,7 +2456,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
@@ -2539,7 +2511,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
@@ -2591,7 +2563,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
@@ -2659,7 +2631,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
@@ -2711,7 +2683,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
@@ -2771,7 +2743,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
@@ -2823,7 +2795,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
@@ -2883,7 +2855,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
@@ -2943,7 +2915,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
@@ -3003,7 +2975,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
@@ -3079,7 +3051,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
@@ -3135,7 +3107,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
@@ -3199,7 +3171,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
@@ -3265,7 +3237,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
@@ -3317,7 +3289,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
@@ -3381,7 +3353,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
@@ -3437,7 +3409,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
   assetPath: Packages/com.unity.modules.uielementsnative
   name: com.unity.modules.uielementsnative
@@ -3500,7 +3472,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 0.1.6-preview
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\nuget.mono-cecil@0.1.6-preview
   assetPath: Packages/nuget.mono-cecil
   name: nuget.mono-cecil
@@ -3554,7 +3526,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.0
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
@@ -3564,7 +3536,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: library
   description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
     synced to version 12.0.2.
 
@@ -3579,19 +3551,9 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.0.1-preview.1
-    - 1.1.2
-    - 2.0.0-preview
-    - 2.0.0-preview.1
-    - 2.0.0-preview.2
     - 2.0.0
-    - 2.0.1-preview.1
     compatible:
     - 2.0.0
-    - 2.0.1-preview.1
     verified: 2.0.0
   dependencies: []
   resolvedDependencies: []
@@ -3608,7 +3570,7 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637237898320000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -3624,7 +3586,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.1.0
   source: 1
-  resolvedPath: C:\Users\Vishal\Documents\Github Projects\Particle-System-Unity\Source
+  resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
     Project\Particle System Unity\Library\PackageCache\com.unity.subsystemregistration@1.1.0
   assetPath: Packages/com.unity.subsystemregistration
   name: com.unity.subsystemregistration
