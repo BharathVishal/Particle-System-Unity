@@ -22,7 +22,8 @@ Import the package [Particle-System-Unity/Package/Particle_System.unitypackage](
 
 
 ### IDE/Game engine : 
-Unity 2021.2.7f1 
+Unity 2021.2.13f1
+
 
 
 ### Features:
