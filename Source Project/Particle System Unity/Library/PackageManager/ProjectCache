@@ -23,7 +23,7 @@ m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/Vishal/Documents/GitHub Projects/Particle-System-Unity/Source
   Project/Particle System Unity/Packages
-m_EditorVersion: 2021.3.0f1 (6eacc8284459)
+m_EditorVersion: 2021.3.1f1 (3b70a0754835)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
