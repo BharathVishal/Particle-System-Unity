@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637891601338246537
-    m_Hash: 3544074662
+      ticks: 637926832061853829
+    m_Hash: 1427820798
   m_LockFileStatus:
     m_FilePath: C:/Users/Vishal/Documents/GitHub Projects/Particle-System-Unity/Source
       Project/Particle System Unity/Packages/packages-lock.json
@@ -15,15 +15,15 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637891601430500243
-    m_Hash: 249860372
+      ticks: 637926832849122026
+    m_Hash: 2679706382
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/Vishal/Documents/GitHub Projects/Particle-System-Unity/Source
   Project/Particle System Unity/Packages
-m_EditorVersion: 2021.3.3f1 (af2e63e8f9bd)
+m_EditorVersion: 2021.3.5f1 (40eb3a945986)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
@@ -456,13 +456,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.6.12
     nextVersion: 
-- packageId: com.unity.collab-proxy@1.15.16
+- packageId: com.unity.collab-proxy@1.15.18
   testable: 0
   isDirectDependency: 1
-  version: 1.15.16
+  version: 1.15.18
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.collab-proxy@1.15.16
+    Project\Particle System Unity\Library\PackageCache\com.unity.collab-proxy@1.15.18
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -538,8 +538,6 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     compatible:
-    - 1.15.16
-    - 1.15.17
     - 1.15.18
     - 2.0.0-preview.6
     - 2.0.0-preview.8
@@ -557,7 +555,7 @@ m_ResolvedPackages:
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.services.core
-    version: 1.3.1
+    version: 1.4.0
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -587,16 +585,16 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637847776260000000
+  datePublishedTicks: 637888962690000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 714a2838c2d55add3d0accf539488f96caa757b2
+    revision: 611215dcd30048fa921b4be160048bad4022d65f
     path: 
   unityLifecycle:
-    version: 1.15.16
+    version: 1.15.18
     nextVersion: 
 - packageId: com.unity.ext.nunit@1.0.6
   testable: 0
@@ -879,13 +877,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.5
     nextVersion: 
-- packageId: com.unity.purchasing@4.1.4
+- packageId: com.unity.purchasing@4.1.5
   testable: 0
   isDirectDependency: 1
-  version: 4.1.4
+  version: 4.1.5
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.purchasing@4.1.4
+    Project\Particle System Unity\Library\PackageCache\com.unity.purchasing@4.1.5
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -965,7 +963,6 @@ m_ResolvedPackages:
     - 4.2.0-pre.1
     - 4.2.0-pre.2
     compatible:
-    - 4.1.4
     - 4.1.5
     - 4.2.0-pre.1
     - 4.2.0-pre.2
@@ -999,7 +996,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.services.core
-    version: 1.3.1
+    version: 1.4.0
   - name: com.unity.nuget.newtonsoft-json
     version: 3.0.2
   keywords:
@@ -1015,16 +1012,16 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637853995310000000
+  datePublishedTicks: 637888998470000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.git
-    revision: 25048fc7bf20fd8f0a1a548fc73d024ffa7b25fe
+    revision: e85a08b1c40e0237d1455cd2032430b72b82d183
     path: 
   unityLifecycle:
-    version: 4.1.4
+    version: 4.1.5
     nextVersion: 
 - packageId: com.unity.test-framework@1.1.31
   testable: 0
@@ -3368,13 +3365,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.unity.services.core@1.3.1
+- packageId: com.unity.services.core@1.4.0
   testable: 0
   isDirectDependency: 0
-  version: 1.3.1
+  version: 1.4.0
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.services.core@1.3.1
+    Project\Particle System Unity\Library\PackageCache\com.unity.services.core@1.4.0
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -3400,10 +3397,10 @@ m_ResolvedPackages:
     - 1.1.0-pre.10
     - 1.1.0-pre.11
     - 1.1.0-pre.41
-    - 1.3.1
+    - 1.4.0
     compatible:
-    - 1.3.1
-    verified: 1.3.1
+    - 1.4.0
+    verified: 1.4.0
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
@@ -3434,10 +3431,10 @@ m_ResolvedPackages:
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: a1cf55a5ba0e2555d508263fa48837ff56c4654a
+    revision: 92e281deb97a96f7b32464b6874de73a17c140ff
     path: 
   unityLifecycle:
-    version: 1.3.1
+    version: 1.4.0
     nextVersion: 
 - packageId: com.unity.subsystemregistration@1.1.0
   testable: 0
