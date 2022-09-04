@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637956226389623372
-    m_Hash: 1987678198
+      ticks: 637978220171347213
+    m_Hash: 2057413989
   m_LockFileStatus:
     m_FilePath: C:/Users/Vishal/Documents/GitHub Projects/Particle-System-Unity/Source
       Project/Particle System Unity/Packages/packages-lock.json
@@ -15,15 +15,15 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637956226598214585
-    m_Hash: 1073015739
+      ticks: 637978220518202775
+    m_Hash: 2396061564
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/Vishal/Documents/GitHub Projects/Particle-System-Unity/Source
   Project/Particle System Unity/Packages
-m_EditorVersion: 2021.3.7f1 (24e8595d6d43)
+m_EditorVersion: 2021.3.9f1 (ad3870b89536)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
@@ -128,13 +128,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: com.unity.adaptiveperformance@3.0.2
+- packageId: com.unity.adaptiveperformance@4.0.1
   testable: 0
   isDirectDependency: 1
-  version: 3.0.2
+  version: 4.0.1
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.adaptiveperformance@3.0.2
+    Project\Particle System Unity\Library\PackageCache\com.unity.adaptiveperformance@4.0.1
   assetPath: Packages/com.unity.adaptiveperformance
   name: com.unity.adaptiveperformance
   displayName: Adaptive Performance
@@ -174,6 +174,7 @@ m_ResolvedPackages:
     - 1.1.10
     - 1.2.0
     - 1.2.2
+    - 1.2.3
     - 2.0.0-preview.1
     - 2.0.0-preview.2
     - 2.0.0-preview.4
@@ -189,21 +190,22 @@ m_ResolvedPackages:
     - 2.1.1
     - 2.2.1
     - 2.2.3
+    - 2.2.4
     - 3.0.0-pre.2
     - 3.0.0
     - 3.0.2
+    - 3.0.3
     - 4.0.0-pre.1
     - 4.0.0
+    - 4.0.1
     compatible:
-    - 3.0.2
-    - 4.0.0-pre.1
-    - 4.0.0
-    verified: 3.0.2
+    - 4.0.1
+    verified: 4.0.1
   dependencies:
   - name: com.unity.subsystemregistration
     version: 1.1.0
   - name: com.unity.profiling.core
-    version: 1.0.0
+    version: 1.0.2
   resolvedDependencies:
   - name: com.unity.subsystemregistration
     version: 1.1.0
@@ -240,16 +242,16 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637794089650000000
+  datePublishedTicks: 637940147290000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.adaptiveperformance.git
-    revision: 971ac86211e0f5b69f8b3a570b0b508887870017
+    revision: 08f36a7c7e7e80b8ec602e108f0e40d1661540b5
     path: 
   unityLifecycle:
-    version: 3.0.2
+    version: 4.0.1
     nextVersion: 
 - packageId: com.unity.ads@3.7.5
   testable: 0
@@ -456,13 +458,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.6.12
     nextVersion: 
-- packageId: com.unity.collab-proxy@1.17.1
+- packageId: com.unity.collab-proxy@1.17.2
   testable: 0
   isDirectDependency: 1
-  version: 1.17.1
+  version: 1.17.2
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.collab-proxy@1.17.1
+    Project\Particle System Unity\Library\PackageCache\com.unity.collab-proxy@1.17.2
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -541,7 +543,6 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     compatible:
-    - 1.17.1
     - 1.17.2
     - 2.0.0-preview.6
     - 2.0.0-preview.8
@@ -589,16 +590,16 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637916644700000000
+  datePublishedTicks: 637937432480000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 2346af88036ac7256d898e0bb536f60220ce6e18
+    revision: 14d129dcc778f8ea2fdf9d0240b47924e4f0dbb1
     path: 
   unityLifecycle:
-    version: 1.17.1
+    version: 1.17.2
     nextVersion: 
 - packageId: com.unity.ext.nunit@1.0.6
   testable: 0
@@ -885,13 +886,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.5
     nextVersion: 
-- packageId: com.unity.purchasing@4.2.1
+- packageId: com.unity.purchasing@4.4.0
   testable: 0
   isDirectDependency: 1
-  version: 4.2.1
+  version: 4.4.0
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.purchasing@4.2.1
+    Project\Particle System Unity\Library\PackageCache\com.unity.purchasing@4.4.0
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -974,10 +975,8 @@ m_ResolvedPackages:
     - 4.3.0
     - 4.4.0
     compatible:
-    - 4.2.1
-    - 4.3.0
     - 4.4.0
-    verified: 4.2.1
+    verified: 4.4.0
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -1013,7 +1012,7 @@ m_ResolvedPackages:
   - name: com.unity.nuget.newtonsoft-json
     version: 3.0.2
   - name: com.unity.services.analytics
-    version: 4.0.1
+    version: 4.1.0
   keywords:
   - purchasing
   - iap
@@ -1027,16 +1026,16 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637915167450000000
+  datePublishedTicks: 637946151890000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.git
-    revision: 258ef39fae29e6ea64d6813cd615b9424e3a9955
+    revision: 94c5a447a90fc84222a89d4cffe216b3cfba7ef6
     path: 
   unityLifecycle:
-    version: 4.2.1
+    version: 4.4.0
     nextVersion: 
 - packageId: com.unity.test-framework@1.1.31
   testable: 0
@@ -1514,13 +1513,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: com.unity.xr.legacyinputhelpers@2.1.9
+- packageId: com.unity.xr.legacyinputhelpers@2.1.10
   testable: 0
   isDirectDependency: 1
-  version: 2.1.9
+  version: 2.1.10
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.9
+    Project\Particle System Unity\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.10
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -1564,9 +1563,10 @@ m_ResolvedPackages:
     - 2.1.7
     - 2.1.8
     - 2.1.9
+    - 2.1.10
     compatible:
-    - 2.1.9
-    verified: 2.1.9
+    - 2.1.10
+    verified: 2.1.10
   dependencies:
   - name: com.unity.modules.vr
     version: 1.0.0
@@ -1598,16 +1598,16 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637812095140000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
-    revision: 8e4581a11c14b64d41aabb67f51b0d8a0c75f5c4
+    revision: 465ee12451634ea2b2986d54f6ae8be37316772a
     path: 
   unityLifecycle:
-    version: 2.1.9
+    version: 2.1.10
     nextVersion: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
@@ -3459,13 +3459,13 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.4.2
     nextVersion: 
-- packageId: com.unity.services.analytics@4.0.1
+- packageId: com.unity.services.analytics@4.1.0
   testable: 0
   isDirectDependency: 0
-  version: 4.0.1
+  version: 4.1.0
   source: 1
   resolvedPath: C:\Users\Vishal\Documents\GitHub Projects\Particle-System-Unity\Source
-    Project\Particle System Unity\Library\PackageCache\com.unity.services.analytics@4.0.1
+    Project\Particle System Unity\Library\PackageCache\com.unity.services.analytics@4.1.0
   assetPath: Packages/com.unity.services.analytics
   name: com.unity.services.analytics
   displayName: Analytics
@@ -3500,9 +3500,8 @@ m_ResolvedPackages:
     - 4.0.1
     - 4.1.0
     compatible:
-    - 4.0.1
     - 4.1.0
-    verified: 4.0.1
+    verified: 4.1.0
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -3533,16 +3532,16 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637889192380000000
+  datePublishedTicks: 637938214040000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: dac564bca5dae194afa944a6b22849513d412ec2
+    revision: ce8dc514c456314c27bb9b989b588f1966853df6
     path: 
   unityLifecycle:
-    version: 4.0.1
+    version: 4.1.0
     nextVersion: 
 - packageId: com.unity.subsystemregistration@1.1.0
   testable: 0
