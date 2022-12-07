@@ -378,3 +378,13 @@ Update Mode: updateDependencies
 
 The following packages were updated:
   com.unity.purchasing from version 4.4.0 to 4.4.1
+
+=== Wed Dec  7 10:44:56 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.17.2 to 1.17.7
+  com.unity.ide.rider from version 3.0.15 to 3.0.16
+  com.unity.purchasing from version 4.4.1 to 4.5.1
