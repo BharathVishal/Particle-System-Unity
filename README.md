@@ -64,6 +64,11 @@ Unity 2021.3.18f1
 ![Effect 8](https://github.com/BharathVishal/Particle-System-Unity/blob/master/Preview%20GIFs/7.gif)
 
 
+#### License : 
+[Apache License 2.0](https://github.com/BharathVishal/Particle-System-Unity/blob/master/LICENSE)
+&nbsp;
+
+&nbsp;
 
 
 © 2017-2023. Developed by Bharath Vishal G (https://github.com/BharathVishal).
