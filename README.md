@@ -72,4 +72,4 @@ Unity 2021.3.18f1
 
 
 © 2017-2023. Developed by Bharath Vishal G (https://github.com/BharathVishal).
-Thank you. :smile:
+Thank you. :slightly_smiling_face:
