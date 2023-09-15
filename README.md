@@ -1,4 +1,4 @@
-# Particle System-Unity
+# Particle-System-Unity
 This project contains a set of eight particle effects for use in Unity projects.
 
 
